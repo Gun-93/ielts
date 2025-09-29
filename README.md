@@ -36,10 +36,10 @@ Open the provided local URL (usually http://localhost:5173/) in your browser to 
 ```
 
 ## Design Choices
--Used Tailwind CSS for a clean, modern, and responsive design.
--Each section (Navbar, Hero, Features, Testimonials, Footer) is a separate React component for readability and reusability.
--Added hover effects and shadows for better UI/UX.
--Fully responsive across desktop, tablet, and mobile devices.
--Smooth scrolling between sections for a professional user experience.
+- Used Tailwind CSS for a clean, modern, and responsive design.
+- Each section (Navbar, Hero, Features, Testimonials, Footer) is a separate React component for readability and reusability.
+- Added hover effects and shadows for better UI/UX.
+- Fully responsive across desktop, tablet, and mobile devices.
+- Smooth scrolling between sections for a professional user experience.
 
 
